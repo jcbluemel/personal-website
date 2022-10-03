@@ -1,2 +1,2 @@
 # personal-website
-Rithm Prework Personal Website
+Joel Bluemel's Personal Site
